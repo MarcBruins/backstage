@@ -1,5 +1,14 @@
 # @backstage/plugin-adr
 
+## 0.1.3-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/integration-react@1.1.3-next.0
+  - @backstage/plugin-adr-common@0.1.3-next.0
+  - @backstage/plugin-catalog-react@1.1.3-next.0
+
 ## 0.1.2
 
 ### Patch Changes

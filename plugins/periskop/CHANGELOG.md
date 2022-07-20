@@ -1,5 +1,13 @@
 # @backstage/plugin-periskop
 
+## 0.1.6-next.0
+
+### Patch Changes
+
+- 29f782eb37: Updated dependency `@types/luxon` to `^3.0.0`.
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.3-next.0
+
 ## 0.1.5
 
 ### Patch Changes

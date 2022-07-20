@@ -166,5 +166,11 @@
     "@backstage/plugin-vault-backend": "0.2.0",
     "@backstage/plugin-xcmetrics": "0.2.27"
   },
-  "changesets": []
+  "changesets": [
+    "create-app-1658308186",
+    "olive-tips-camp",
+    "renovate-15030f1",
+    "renovate-5b7b62b",
+    "violet-mayflies-mix"
+  ]
 }

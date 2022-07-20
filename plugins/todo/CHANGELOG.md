@@ -1,5 +1,12 @@
 # @backstage/plugin-todo
 
+## 0.2.10-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.3-next.0
+
 ## 0.2.9
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @backstage/plugin-sentry
 
+## 0.4.1-next.0
+
+### Patch Changes
+
+- 29f782eb37: Updated dependency `@types/luxon` to `^3.0.0`.
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.3-next.0
+
 ## 0.4.0
 
 ### Minor Changes
